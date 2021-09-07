@@ -1,5 +1,6 @@
 # SuperMarketBilling
-A program that helps customers with their purchase
+A program that helps customers with their purchase.
 It shows the iteams present in the store.
-Tkaes the products as input.
+Takaes the products as input.
 Generates the final bill with discount.
+It can partly automate the work.
