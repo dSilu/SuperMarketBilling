@@ -4,7 +4,7 @@ store = {
     'Peanut Butter': 250.59,
     'Choco Chips': 199,
     'Amul Cheese': 89,
-    'Blue Tokai': 428,
+    'Blue Tokai': 428.56,
     'Taj Mahal Tea': 350,
     'Orange Juice':123,
     'Apple Cidar': 259
@@ -74,6 +74,6 @@ print("Your Bill:")
 for k,v in f_cart.items():
     print(k,":\t\t",v)
 print('Total amount:\t\t',str(total_amt), "\t₹")
-print("Discount:\t\t", str(disc), "\t\t₹")
+print("Discount:\t\t", str(disc), "\t₹")
 print("Net Amount:\t\t", str(total_amt - disc), "\t₹\n")
-print('THank you for choosing NAVRIN!')
+print('Thank You for choosing NAVRIN!')
